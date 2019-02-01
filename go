@@ -139,6 +139,3 @@ usage if ['-h', '--help'].include? command
 command = command.to_sym
 CommandGroup.check_command_exists command
 send command
-
-git push -f origin origin/gh-pages^:gh-pages
-git push origin origin/gh-pages:gh-pages
