@@ -1,4 +1,4 @@
-## Design Principles Guide
+## Design Principles Guide 
 
 This is a repo containing the background information on design principles and a guide on how to create design principles for your project. The template for this guide is a 
 [CFPB/DOCter](https://github.com/CFPB/DOCter)-based
